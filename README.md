@@ -37,6 +37,8 @@
 <p align="left">
   <img src="./icons/Jira.svg" alt="Jira" width="40" height="40">
   <img src="./icons/Figma.svg" alt="Figma" width="40" height="40">
+  <img src="./icons/confluence.svg" alt="confluence" width="40" height="40">
+  <img src="./icons/Zephyr-for-JIRA.png" alt="Zephyr-for-JIRA" width="40" height="40">
 </p>
 
 ### 🛠 Web Application Testing:
@@ -51,6 +53,15 @@
   <img src="./icons/charles.webp" alt="charles" width="40" height="40">
 </p>
 
+---
+<p align="left">
+  <img src="./icons/TeamCity.png" alt="TeamCity" width="40" height="40">
+  <img src="./icons/TestFlight.png" alt="TestFlight" width="40" height="40">
+  <img src="./icons/firebase.svg" alt="firebase" width="40" height="40">
+  <img src="./icons/microsoft-sql-server.svg" alt="microsoft-sql-server" width="40" height="40">
+  <img src="./icons/YaMetric.png" alt="YaMetric" width="40" height="40">
+</p>
+---
 ---
 
 ## 🎓 Certifications (RUS):
