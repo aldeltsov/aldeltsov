@@ -54,6 +54,7 @@
 </p>
 
 ---
+---
 <p align="left">
   <img src="./icons/TeamCity.png" alt="TeamCity" width="40" height="40">
   <img src="./icons/TestFlight.png" alt="TestFlight" width="40" height="40">
@@ -61,7 +62,7 @@
   <img src="./icons/microsoft-sql-server.svg" alt="microsoft-sql-server" width="40" height="40">
   <img src="./icons/YaMetric.png" alt="YaMetric" width="40" height="40">
 </p>
----
+
 ---
 
 ## 🎓 Certifications (RUS):
