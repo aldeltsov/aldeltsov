@@ -84,3 +84,7 @@
     <img src="./Certificates/stepik_manual_qa_en.png" alt="stepik_manual_qa_en" width="180">
   </a>
 </p>
+
+<div align="left">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=aldeltsov.aldeltsov&"  />
+</div>
