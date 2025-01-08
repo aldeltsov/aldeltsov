@@ -17,7 +17,7 @@
 
 ### 🔍 Automated Tests in progress:
 <p align="left">
-  <a href="https://github.com/aldeltsov/yandexPracticeQaJava_2024_2025" target="_blank">
+  <a href="https://github.com/aldeltsov/yandexPracticeQaJava_2024_2025/tree/main/Sprint_3-java-unit-test" target="_blank">
     <img src="https://img.shields.io/badge/Repository-grey?logo=github&style=for-the-badge" alt="Repository">
   </a>
 </p>
