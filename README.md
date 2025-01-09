@@ -1,6 +1,6 @@
-# Hello World
+# Привет!
 
-## 📞 Contact Me:
+## 📞 Связаться со мной:
 <p align="left">
   <a href="https://www.linkedin.com/in/aleksandr-deltsov/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" alt="LinkedIn">
@@ -18,14 +18,14 @@
 ### 🔍 Automated Tests in progress:
 <p align="left">
   <a href="https://github.com/aldeltsov/yandexPracticeQaJava_2024_2025/tree/main/Sprint_3-java-unit-test" target="_blank">
-    <img src="https://img.shields.io/badge/Repository-Java-orange?logo=github&style=for-the-badge" alt="Repository">
+    <img src="https://img.shields.io/badge/Repository-JUnit Java-orange?logo=github&style=for-the-badge" alt="Repository">
   </a>
 </p>
 
-### 📝 Test Cases and Check List:
+### 📝 Test Cases and Check Lists:
 <p align="left">
   <a href="https://github.com/aldeltsov/yandex_practice_qa_2021_2022/tree/main/Sprint_2"target="_blank">
-    <img src="https://img.shields.io/badge/Test_Cases-grey?logo=bookstack&style=for-the-badge" alt="Test Cases">
+    <img src="https://img.shields.io/badge/Test_Cases_+_Check Lists-grey?logo=bookstack&style=for-the-badge" alt="Test Cases">
   </a>
 </p>
 
@@ -53,13 +53,24 @@
   <img src="./icons/charles.webp" alt="charles" width="40" height="40">
 </p>
 
+### 💾 Data Handling:
+<p align="left">
+  <img src="./icons/microsoft-sql-server.svg" alt="microsoft-sql-server" width="40" height="40">
+  <img src="./icons/mysql.svg" alt="mysql" width="40" height="40">
+</p>
+
+### ✏️ Coding:
+<p align="left">
+  <img src="https://upload.vectorlogo.zone/logos/jetbrains_idea/images/d4398a36-c378-4511-a508-106ded6cd69a.svg" alt="IntelliJ IDEA" width="40" height="40">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40">
+</p>
+
 ---
 ---
 <p align="left">
   <img src="./icons/TeamCity.png" alt="TeamCity" width="40" height="40">
   <img src="./icons/TestFlight.png" alt="TestFlight" width="40" height="40">
   <img src="./icons/firebase.svg" alt="firebase" width="40" height="40">
-  <img src="./icons/microsoft-sql-server.svg" alt="microsoft-sql-server" width="40" height="40">
   <img src="./icons/YaMetric.png" alt="YaMetric" width="40" height="40">
 </p>
 
