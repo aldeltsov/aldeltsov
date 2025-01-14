@@ -84,6 +84,9 @@
   <a href="https://disk.yandex.ru/i/KehFUZ3YHjWO_g" target="_blank">
     <img src="./Certificates/stepik_manual_qa_ru.png" alt="stepik_manual_qa_ru" width="180">
   </a>
+  <a href="https://disk.yandex.ru/i/nzjldUbjg2yNzQ" target="_blank">
+    <img src="./Certificates/stepik_postman_api_ru.png" alt="stepik_postman_api_ru" width="180">
+  </a>
 </p>
 
 ## 🎓 Certifications (ENG):
@@ -93,6 +96,9 @@
   </a>
   <a href="https://disk.yandex.ru/i/C57yiaKFDx-lTg" target="_blank">
     <img src="./Certificates/stepik_manual_qa_en.png" alt="stepik_manual_qa_en" width="180">
+  </a>
+  <a href="https://disk.yandex.ru/i/qDJFfBuSiJEpZw" target="_blank">
+    <img src="./Certificates/stepik_postman_api_en.png" alt="stepik_postman_api_en" width="180">
   </a>
 </p>
 
