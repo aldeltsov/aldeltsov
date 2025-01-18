@@ -57,6 +57,7 @@
 <p align="left">
   <img src="./icons/microsoft-sql-server.svg" alt="microsoft-sql-server" width="40" height="40">
   <img src="./icons/mysql.svg" alt="mysql" width="40" height="40">
+  <img src="https://www.postgresql.org/media/img/about/press/elephant.png" alt="postgresql" width="40" height="40">
 </p>
 
 ### ✏️ Coding:
@@ -76,7 +77,7 @@
 
 ---
 
-## 🎓 Certifications (RUS):
+## 🎓 Certifications:
 <p align="left">
   <a href="https://disk.yandex.ru/i/qkYOd1XGaSEP9g" target="_blank">
     <img src="./Certificates/yandex_manual_qa_ru.png" alt="yandex_manual_qa_ru" width="180">
@@ -86,19 +87,6 @@
   </a>
   <a href="https://disk.yandex.ru/i/nzjldUbjg2yNzQ" target="_blank">
     <img src="./Certificates/stepik_postman_api_ru.png" alt="stepik_postman_api_ru" width="180">
-  </a>
-</p>
-
-## 🎓 Certifications (ENG):
-<p align="left">
-  <a href="https://disk.yandex.ru/i/ar3YUwY6RDadFA" target="_blank">
-    <img src="./Certificates/yandex_manual_qa_en.png" alt="yandex_manual_qa_en" width="180">
-  </a>
-  <a href="https://disk.yandex.ru/i/C57yiaKFDx-lTg" target="_blank">
-    <img src="./Certificates/stepik_manual_qa_en.png" alt="stepik_manual_qa_en" width="180">
-  </a>
-  <a href="https://disk.yandex.ru/i/qDJFfBuSiJEpZw" target="_blank">
-    <img src="./Certificates/stepik_postman_api_en.png" alt="stepik_postman_api_en" width="180">
   </a>
 </p>
 
