@@ -99,6 +99,9 @@
   <a href="https://disk.yandex.ru/i/nzjldUbjg2yNzQ" target="_blank">
     <img src="./Certificates/stepik_postman_api_ru.png" alt="stepik_postman_api_ru" width="180">
   </a>
+    <a href="https://disk.yandex.ru/i/3vrfg_qbBATPCA" target="_blank">
+    <img src="./Certificates/open_school_T1.png" alt="open_school_t1" width="180">
+  </a>
 </p>
 
 <div align="left">
