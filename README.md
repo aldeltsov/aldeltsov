@@ -78,12 +78,6 @@
   <a href="https://www.linkedin.com/in/aleksandr-deltsov/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" alt="LinkedIn">
   </a>
-  <a href="https://t.me/adeltsov" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&style=for-the-badge" alt="Telegram">
-  </a>
-  <a href="mailto:adeltsovjob@yandex.ru" target="_blank">
-    <img src="https://img.shields.io/badge/mail-orange?logo=&style=for-the-badge" alt="Yandex">
-  </a>
 </p>
 
 ---
