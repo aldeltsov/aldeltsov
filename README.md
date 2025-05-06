@@ -84,19 +84,23 @@
 
 <h2 align="center">🎓 Certifications:</h2>
 <p align="center">
-  <a href="https://disk.yandex.ru/i/qkYOd1XGaSEP9g" target="_blank">
-    <img src="./Certificates/yandex_manual_qa_ru.png" alt="yandex_manual_qa_ru" width="180">
-  </a>
-  <a href="https://disk.yandex.ru/i/KehFUZ3YHjWO_g" target="_blank">
-    <img src="./Certificates/stepik_manual_qa_ru.png" alt="stepik_manual_qa_ru" width="180">
-  </a>
-  <a href="https://disk.yandex.ru/i/nzjldUbjg2yNzQ" target="_blank">
-    <img src="./Certificates/stepik_postman_api_ru.png" alt="stepik_postman_api_ru" width="180">
+  <a href="https://disk.yandex.ru/i/joZKq2XOc77IUA" target="_blank">
+    <img src="./Certificates/yandex_java_aqa_ru.png" alt="yandex_java_aqa_ru" width="180">
   </a>
     <a href="https://disk.yandex.ru/i/3vrfg_qbBATPCA" target="_blank">
     <img src="./Certificates/open_school_T1.png" alt="open_school_t1" width="180">
   </a>
+  <a href="https://disk.yandex.ru/i/nzjldUbjg2yNzQ" target="_blank">
+    <img src="./Certificates/stepik_postman_api_ru.png" alt="stepik_postman_api_ru" width="180">
+  </a>
+  <a href="https://disk.yandex.ru/i/KehFUZ3YHjWO_g" target="_blank">
+    <img src="./Certificates/stepik_manual_qa_ru.png" alt="stepik_manual_qa_ru" width="180">
+  </a>
+  <a href="https://disk.yandex.ru/i/qkYOd1XGaSEP9g" target="_blank">
+    <img src="./Certificates/yandex_manual_qa_ru.png" alt="yandex_manual_qa_ru" width="180">
+  </a>
 </p>
+
 
 <div align="left">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=aldeltsov.aldeltsov&"  />
